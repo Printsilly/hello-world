@@ -1,6 +1,2 @@
-#include <iostream>
-  using namespace std;
-  
-  int main(){
-      cout << "hello world" <<endl;
-  }
+数据结构小组作业
+暂存在这里
